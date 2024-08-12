@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gajendra2208singh.github.io/portfolio/static/css/main.9af3109b.css",
+    "main.js": "/gajendra2208singh.github.io/portfolio/static/js/main.e138afb7.js",
+    "static/media/g-img.jpg": "/gajendra2208singh.github.io/portfolio/static/media/g-img.8d3f4e612284a5d06514.jpg",
+    "static/media/bg.png.png": "/gajendra2208singh.github.io/portfolio/static/media/bg.png.6bee84e3323f18653849.png",
+    "index.html": "/gajendra2208singh.github.io/portfolio/index.html",
+    "main.9af3109b.css.map": "/gajendra2208singh.github.io/portfolio/static/css/main.9af3109b.css.map",
+    "main.e138afb7.js.map": "/gajendra2208singh.github.io/portfolio/static/js/main.e138afb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9af3109b.css",
+    "static/js/main.e138afb7.js"
+  ]
+}
